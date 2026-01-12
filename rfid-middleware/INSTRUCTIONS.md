@@ -51,7 +51,10 @@ Pour que le script `mock_reader.py` fonctionne, vous devez créer au moins deux 
 ### b. Installation
 
 1.  Ouvrez un terminal ou une invite de commande.
-2.  Naviguez jusqu'au dossier où vous avez sauvegardé les fichiers.
+2.  Naviguez jusqu'au dossier `rfid-middleware` où se trouvent les fichiers :
+    ```bash
+    cd rfid-middleware
+    ```
 3.  Installez les dépendances Python avec la commande :
     ```bash
     pip install -r requirements.txt
