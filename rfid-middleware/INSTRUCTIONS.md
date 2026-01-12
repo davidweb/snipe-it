@@ -75,7 +75,8 @@ Vous devez ouvrir **deux terminaux distincts**.
     ```bash
     python rfid_monitor.py
     ```
-    Vous devriez voir le message : `Serveur de surveillance RFID démarré. En écoute sur localhost:6000`.
+    Vous devriez voir des messages indiquant que les deux services ont démarré.
+    - **Accédez à l'interface web** en ouvrant votre navigateur à l'adresse [http://127.0.0.1:5000](http://127.0.0.1:5000).
 
 *   **Terminal 2 : Lancer le Simulateur de Lecteur**
     ```bash
