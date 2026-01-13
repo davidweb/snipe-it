@@ -1,0 +1,208 @@
+/app/rfid-middleware/rfid_monitor.py:4: DeprecationWarning:
+Eventlet is deprecated. It is currently being maintained in bugfix mode, and
+we strongly recommend against using it for new projects.
+
+If you are already using Eventlet, we recommend migrating to a different
+framework.  For more detail see
+https://eventlet.readthedocs.io/en/latest/asyncio/migration.html
+
+  import eventlet
+Démarrage des services...
+Serveur de surveillance RFID démarré. En écoute sur localhost:6000
+Interface web disponible sur http://127.0.0.1:5000
+Connexion acceptée de 127.0.0.1:39552
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Tag détecté: A1B2C3D4554E4B4E5F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Tag détecté: A1B2C3D4554E4B4E5F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Tag détecté: A1B2C3D4554E4B4E5F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Tag détecté: A1B2C3D4554E4B4E5F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Tag détecté: A1B2C3D4554E4B4E5F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Tag détecté: A1B2C3D4554E4B4E5F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Tag détecté: A1B2C3D4554E4B4E5F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Tag détecté: A1B2C3D4554E4B4E5F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Tag détecté: A1B2C3D4554E4B4E5F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Tag détecté: A1B2C3D4554E4B4E5F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Tag détecté: A1B2C3D4554E4B4E5F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Tag détecté: A1B2C3D4554E4B4E5F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Tag détecté: A1B2C3D4554E4B4E5F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Données brutes reçues de 127.0.0.1: A1B2C3D4554E4B4E5F5441475F3033E5F6
+Tag détecté: A1B2C3D4554E4B4E5F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4414C41524D5F5441475F3031E5F6
+Tag détecté: A1B2C3D4414C41524D5F5441. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Données brutes reçues de 127.0.0.1: A1B2C3D4534146455F5441475F3032E5F6
+Tag détecté: A1B2C3D4534146455F544147. Vérification du statut...
+Erreur: La clé API n'est pas configurée dans config.py.
+Connexion fermée avec 127.0.0.1:39552

@@ -1,0 +1,6 @@
+requests
+playsound==1.2.2
+colorama
+Flask
+Flask-SocketIO
+eventlet
