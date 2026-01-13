@@ -77,6 +77,7 @@ Vous devez ouvrir **deux terminaux distincts**.
     ```
     Vous devriez voir des messages indiquant que les deux services ont démarré.
     - **Accédez à l'interface web** en ouvrant votre navigateur à l'adresse [http://127.0.0.1:5000](http://127.0.0.1:5000).
+    - **Interactivité :** Cliquez sur n'importe quel événement dans le journal web pour ouvrir une fenêtre modale affichant les détails complets de l'actif concerné, récupérés directement depuis Snipe-IT.
 
 *   **Terminal 2 : Lancer le Simulateur de Lecteur**
     ```bash
@@ -84,4 +85,4 @@ Vous devez ouvrir **deux terminaux distincts**.
     ```
     Ce script va commencer à envoyer des tags de test au moniteur.
 
-Vous verrez alors les messages d'autorisation (en vert) et les alertes de sécurité (en rouge) apparaître dans le **Terminal 1**. Les événements seront également enregistrés dans `security_events.log`.
+Vous verrez alors les messages d'autorisation (en vert) et les alertes de sécurité (en rouge) apparaître dans le **Terminal 1** et sur l'interface web. Les événements seront également enregistrés dans `security_events.log`.
